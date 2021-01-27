@@ -1,5 +1,4 @@
 # BruteForceAttack 
-Codepath Lab
 -
 
 <h2>Description of project: </h2>
